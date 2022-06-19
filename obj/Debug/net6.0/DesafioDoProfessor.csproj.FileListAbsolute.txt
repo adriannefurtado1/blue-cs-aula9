@@ -1,0 +1,15 @@
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\POO\DesafioDoProfessor\obj\Debug\net6.0\DesafioDoProfessor.csproj.AssemblyReference.cache
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\POO\DesafioDoProfessor\obj\Debug\net6.0\DesafioDoProfessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\POO\DesafioDoProfessor\obj\Debug\net6.0\DesafioDoProfessor.AssemblyInfoInputs.cache
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\POO\DesafioDoProfessor\obj\Debug\net6.0\DesafioDoProfessor.AssemblyInfo.cs
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\POO\DesafioDoProfessor\obj\Debug\net6.0\DesafioDoProfessor.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\POO\DesafioDoProfessor\bin\Debug\net6.0\DesafioDoProfessor.exe
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\POO\DesafioDoProfessor\bin\Debug\net6.0\DesafioDoProfessor.deps.json
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\POO\DesafioDoProfessor\bin\Debug\net6.0\DesafioDoProfessor.runtimeconfig.json
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\POO\DesafioDoProfessor\bin\Debug\net6.0\DesafioDoProfessor.dll
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\POO\DesafioDoProfessor\bin\Debug\net6.0\DesafioDoProfessor.pdb
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\POO\DesafioDoProfessor\obj\Debug\net6.0\DesafioDoProfessor.dll
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\POO\DesafioDoProfessor\obj\Debug\net6.0\refint\DesafioDoProfessor.dll
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\POO\DesafioDoProfessor\obj\Debug\net6.0\DesafioDoProfessor.pdb
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\POO\DesafioDoProfessor\obj\Debug\net6.0\DesafioDoProfessor.genruntimeconfig.cache
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\POO\DesafioDoProfessor\obj\Debug\net6.0\ref\DesafioDoProfessor.dll
